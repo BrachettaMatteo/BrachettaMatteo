@@ -28,4 +28,4 @@ Passionate Software Engineer focused on building robust, scalable mobile applica
 Clean Architecture • Dependency Injection • SOLID Principles • CI/CD
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteobrachetta)
